@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "properties": {
+    "success": {
+      "type": "boolean"
+    },
+    "data": {
+      "type": "object",
+      "properties": {
+        "phoneNumber": {
+          "type": "null"
+        },
+        "eligibility": {
+          "type": "boolean"
+        },
+        "rejectionReasons": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "additionalProperties": false
+    }
+  },
+  "additionalProperties": false
+}

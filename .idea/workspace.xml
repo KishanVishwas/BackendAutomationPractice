@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/OtpResetUsingExceldata.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/UserDeviceDetailsMongoDb.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/authGeneration.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/loanOtpReset.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/needHelp.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/resetOTPLimit.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/ruleEngineSchema.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/sampleJsonschema.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/testNestedandArray.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/web_Rtf_flowEnable.java.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/configConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/headerConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/uriConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/excelUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/restUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/ValidateApi/Validation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/DpdCheck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/LoanOtpLimitReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/OtpLimitReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/deviceDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/excelMobilenumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/flowEnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/generateVerifyOtp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/schemaRuleEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/OtpLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/deviceDetails_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/fetchNumberinExcel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/flowEnable1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/practicePost1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/schemaRuleEngine1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/verifyOtp_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/headerHelper/HeaderHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lending/jar/Automation/Helper/Dbhelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Lending/jar/Automation/Utils/MongoDBUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/OtpResetUsingExceldata.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/UserDeviceDetailsMongoDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/authGeneration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/loanOtpReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/needHelp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/resetOtpLimit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/ruleEngineSchema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/sampleJsonschema.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/testNestedandArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/web_Rtf_flowEnable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/ruleEngine.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/user-schema.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2oVh2mQpv8SmutwsLvsEKBilIpq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.fetchNumberinExcel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;TestNG.OtpResetUsingExceldata.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.OtpResetusingExceldata.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserDeviceDetailsMongoDb.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.UserDeviceDetailsMongoDb.mongoDbUserDevice.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.authGeneration.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.authGeneration.generateToken.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.authGeneration.generatetoken.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.authGeneration.triggerOtp.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.loanOtpReset.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.needHelp.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.needHelpChatbotQsnAns.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.resetOTPLimit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.resetOTPLimit.resetOtp1 (1).executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.resetOTPLimit.resetOtp1.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.resetOTPLimit.resetOtp2.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.resetOtpLimit.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.ruleEngineSchema.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.sampleJsonSchema.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.testNestedandArray.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_directory_selection&quot;: &quot;/Users/kishanr/IdeaProjects/LendingAutomationPractice/src/test/java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;two.files.diff.last.used.folder&quot;: &quot;/Users/kishanr/IdeaProjects/LendingAutomationPractice/src/main/java/com/Lending/jar/Automation/dataModel_I&quot;
+  }
+}</component>
+  <component name="RunManager" selected="TestNG.resetOtpLimit">
+    <configuration name="authGeneration" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LendingAutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lending.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.authGeneration" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="authGeneration.generateToken" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LendingAutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lending.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.authGeneration" />
+      <option name="METHOD_NAME" value="generateToken" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="authGeneration.triggerOtp" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LendingAutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lending.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.authGeneration" />
+      <option name="METHOD_NAME" value="triggerOtp" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resetOTPLimit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LendingAutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lending.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.resetOTPLimit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="resetOtpLimit" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LendingAutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lending.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.resetOtpLimit" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.resetOtpLimit" />
+        <item itemvalue="TestNG.resetOTPLimit" />
+        <item itemvalue="TestNG.authGeneration" />
+        <item itemvalue="TestNG.authGeneration.generateToken" />
+        <item itemvalue="TestNG.authGeneration.triggerOtp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="" />
+      <created>1730960448234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1730960448234</updated>
+    </task>
+    <servers />
+  </component>
+</project>
