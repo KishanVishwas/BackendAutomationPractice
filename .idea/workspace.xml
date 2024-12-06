@@ -4,64 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/OtpResetUsingExceldata.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/UserDeviceDetailsMongoDb.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/authGeneration.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/loanOtpReset.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/needHelp.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/resetOTPLimit.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/ruleEngineSchema.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/sampleJsonschema.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/testNestedandArray.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/exportToHTML/com/Lending/api/test/web_Rtf_flowEnable.java.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/configConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/headerConstants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/uriConstant.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/excelUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/restUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/ValidateApi/Validation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/DpdCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/LoanOtpLimitReset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/OtpLimitReset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/deviceDetails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/excelMobilenumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/flowEnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/generateVerifyOtp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/schemaRuleEngine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/OtpLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/deviceDetails_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/fetchNumberinExcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/flowEnable1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/practicePost1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/schemaRuleEngine1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/verifyOtp_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/headerHelper/HeaderHelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lending/jar/Automation/Helper/Dbhelper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Lending/jar/Automation/Utils/MongoDBUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/OtpResetUsingExceldata.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/UserDeviceDetailsMongoDb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/authGeneration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/loanOtpReset.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/needHelp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/resetOtpLimit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/ruleEngineSchema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/sampleJsonschema.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/testNestedandArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/web_Rtf_flowEnable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/ruleEngine.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/user-schema.json" afterDir="false" />
-    </list>
+    <list default="true" id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
