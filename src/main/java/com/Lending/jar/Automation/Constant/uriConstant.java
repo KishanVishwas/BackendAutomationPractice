@@ -40,5 +40,11 @@ public class uriConstant {
 //    Nested and Array practice Uri
     public static String practiceUri="users";
 
+    // Credit card offer
+    public static String addingOffer="v1/api/creditCard/internal/addOffer";
+
+    // MIS STATUS Credit Card
+    public static String misStatus="v1/api/creditCard/internal/process/misStatus";
+
 
 }

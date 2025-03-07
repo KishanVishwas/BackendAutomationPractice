@@ -20,7 +20,7 @@ public class schemaRuleEngine1
         DpdCheck dpd4 = new DpdCheck("2024", "07", 30);
         DpdCheck dpd5 = new DpdCheck("2024", "06", 0);
         schemaRuleEngine rule=new schemaRuleEngine();
-        rule.setAge(headerConstants.age);
+        rule.setAge(headerConstants.    age);
         rule.setScore(headerConstants.score);
         rule.setTotalAmountPastDue(headerConstants.totalAmountPastDue);
         rule.setTotalCapsLast180Days(headerConstants.totalCapsLast180Days);

@@ -1,5 +1,6 @@
 package Lending.jar.Automation.headerHelper;
 
+import Lending.jar.Automation.Constant.headerConstants;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.specification.RequestSpecification;
 
@@ -73,7 +74,7 @@ public class HeaderHelper
         return new RequestSpecBuilder()
                 .setBaseUri(StagingBaseUri)
                 .setContentType(contentType)
-                .addQueryParam("phoneNumber","9611055312")
+                .addQueryParam("phoneNumber","9999911111")
                 .addQueryParam("countryCode","91")
                 .build();
 
@@ -123,6 +124,31 @@ public class HeaderHelper
                 .setContentType(contentType)
                 .build();
     }
+
+    // Adding Credit card offer to user
+    public static RequestSpecification cardOffer()
+    {
+        return new RequestSpecBuilder()
+                .setBaseUri(StagingBaseUri)
+                .setContentType(contentType)
+                .addHeader("Authorization","Bearer " +authToken)
+                .addQueryParam("creditCardProvider",creditCardProvider)
+                .addQueryParam("status",status)
+                .addQueryParam("userId",userId)
+                .build();
+    }
+// Changing the MIS Status
+    public static RequestSpecification MisStatus()
+    {
+        return new RequestSpecBuilder()
+                .setBaseUri(StagingBaseUri)
+                .setContentType(contentType)
+                .addHeader("Authorization","Bearer " +authToken)
+                .build();
+    }
+
+
+
 
 }
 

@@ -42,4 +42,26 @@ public class Validation
         String status = response.jsonPath().getString("success");
         Assert.assertEquals(status, "true");
     }
+
+    public static void cardValidation(Response response)
+    {
+
+        String success=response.jsonPath().getString("success");
+        String data=response.jsonPath().getString("data");
+        Assert.assertEquals(success, "true");
+        Assert.assertEquals(data, "Credit card offers added successfully");
+
+    }
+
+    public static void CardflowValidation(Response response)
+    {
+
+        String success=response.jsonPath().getString("success");
+        String data=response.jsonPath().getString("data");
+        Assert.assertEquals(success, "true");
+        Assert.assertEquals(data, "Application mis status is processed successfully");
+
+
+    }
+
 }

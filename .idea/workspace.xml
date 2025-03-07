@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/BackendAutomationPractice" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/BackendAutomationPractice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/creditCardMisStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/creditCardOffer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/creditCardFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/creditCardMisStatus_I.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/addingCreditCardOffer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/headerConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/headerConstants.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/uriConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/uriConstant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/restUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/restUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/ValidateApi/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/ValidateApi/Validation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/schemaRuleEngine1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/schemaRuleEngine1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/headerHelper/HeaderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/headerHelper/HeaderHelper.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +61,7 @@
     &quot;TestNG.OtpResetusingExceldata.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.UserDeviceDetailsMongoDb.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.UserDeviceDetailsMongoDb.mongoDbUserDevice.executor&quot;: &quot;Debug&quot;,
+    &quot;TestNG.addingCreditCardOffer.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.authGeneration.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.authGeneration.generateToken.executor&quot;: &quot;Run&quot;,
     &quot;TestNG.authGeneration.generatetoken.executor&quot;: &quot;Run&quot;,
@@ -68,11 +83,28 @@
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;two.files.diff.last.used.folder&quot;: &quot;/Users/kishanr/IdeaProjects/LendingAutomationPractice/src/main/java/com/Lending/jar/Automation/dataModel_I&quot;
   }
 }</component>
   <component name="RunManager" selected="TestNG.resetOtpLimit">
+    <configuration name="addingCreditCardOffer" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="LendingAutomationPractice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Lending.api.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.addingCreditCardOffer" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="authGeneration" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LendingAutomationPractice" />
       <extension name="coverage">
@@ -90,7 +122,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="authGeneration.generateToken" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="loanOtpReset" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="LendingAutomationPractice" />
       <extension name="coverage">
         <pattern>
@@ -99,27 +131,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.Lending.api.test" />
-      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.authGeneration" />
-      <option name="METHOD_NAME" value="generateToken" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="authGeneration.triggerOtp" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="LendingAutomationPractice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.Lending.api.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.Lending.api.test" />
-      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.authGeneration" />
-      <option name="METHOD_NAME" value="triggerOtp" />
-      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="MAIN_CLASS_NAME" value="com.Lending.api.test.loanOtpReset" />
+      <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
       <method v="2">
@@ -163,10 +176,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.resetOtpLimit" />
-        <item itemvalue="TestNG.resetOTPLimit" />
+        <item itemvalue="TestNG.addingCreditCardOffer" />
         <item itemvalue="TestNG.authGeneration" />
-        <item itemvalue="TestNG.authGeneration.generateToken" />
-        <item itemvalue="TestNG.authGeneration.triggerOtp" />
+        <item itemvalue="TestNG.loanOtpReset" />
+        <item itemvalue="TestNG.resetOTPLimit" />
       </list>
     </recent_temporary>
   </component>
