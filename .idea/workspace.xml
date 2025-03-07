@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/BackendAutomationPractice" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/creditCardMisStatus.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_I/creditCardOffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/creditCardFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/creditCardMisStatus_I.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Lending/api/test/addingCreditCardOffer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/headerConstants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/headerConstants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/uriConstant.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Constant/uriConstant.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/restUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/Utils/restUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/ValidateApi/Validation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/ValidateApi/Validation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/schemaRuleEngine1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/dataModel_S/schemaRuleEngine1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/headerHelper/HeaderHelper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/Lending/jar/Automation/headerHelper/HeaderHelper.java" afterDir="false" />
-    </list>
+    <list default="true" id="251eadc4-780e-47f0-94dc-5a86a2f0912e" name="Changes" comment="Adding all the recent files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,6 +176,30 @@
       <option name="presentableId" value="Default" />
       <updated>1730960448234</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding all the recent files">
+      <option name="closed" value="true" />
+      <created>1741349984971</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741349984971</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding all the recent files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding all the recent files" />
   </component>
 </project>
